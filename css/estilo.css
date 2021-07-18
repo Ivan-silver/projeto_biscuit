@@ -1,0 +1,219 @@
+/*
+* 
+* @author Jamilton Damasceno
+
+../imagens/capa.png
+../imagens/ruido.png
+linear-gradient(50deg,#ff4169,#7c26f8);
+background-attachment: fixed;
+background-attachment: fixed
+background-color:#E91E63;
+
+*/
+
+body {
+
+		
+	background-color: #f;			
+	font-family: Helvecta,Arial,sans-serif;
+}
+.cores_menu {
+	background-color: #ff3333;	
+}
+
+.altura{
+
+	margin-top: 0px;
+}
+.img_tamah {
+	width: 300px;
+	height: 250px;
+	border: 3px solid pink;
+}
+
+.img_tamah2 {
+	width: 400px;
+	height: 300px;
+	border: 4px solid pink;
+
+}
+.tamnho_logo{
+	width: 180px;
+}
+
+
+
+img {
+	height: 120px;
+	width: 120px;
+}
+
+.cores {
+	background-color:#E91E63;
+}
+
+nav.navbar-transparente {
+		padding: 10px;
+		
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: pink;
+	font-size: 20px;	
+}
+.navbar-light .navbar-nav .nav-link{
+	color: white;
+	font-size: 20px;	
+}
+
+.navbar-light .navbar-toggler {
+	color: rgba(255,255,255, .5);	
+	border-color: white;
+}
+
+.mar {
+	margin: 2px;
+}
+
+
+
+.capa{
+	text-align: center;
+	margin-top: 250px;
+}
+
+.btn-custom {
+	color: white;
+	border-radius: 500px;
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	text-transform: uppercase;
+	transition: background 0.4s, color 0.4s;
+	padding: 10px 20px;
+
+}
+.btn-roxo {
+	background: #7c25f8;
+
+}
+
+.btn-roxo:hover {
+	background: #7c25f8;
+	color: white;
+}
+
+.btn-branco {
+	border: 2px solid white;
+
+}
+
+.btn-branco:hover {
+	background-color: white
+	color: black;
+}
+
+
+
+.tam {
+	width: 100%;
+	height: 150px;
+	background-color: red;
+}
+
+
+
+footer {
+	height: 110px;
+	background-color: red: 
+	border-top:2px solid white;
+
+}
+
+
+
+
+
+
+
+h1{
+	color: white;
+	font-weight: 900px;
+	letter-spacing: -0.05em;
+	margin-bottom: 50px;
+}
+
+@media (min-width: 768px) and (max-width: 991.98px){
+	h1 {
+		font-size: 4em;
+	}	
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+	h1 {
+		font-size: 5em;
+	}	
+}
+@media (min-width: 1200px) {
+	h1 {
+		font-size: 6em;
+	}	
+}
+
+.text {
+	font-size: 20px;
+	color: green;
+	margin: 5px;
+	font-weight: 20px;
+}
+
+.imggrande {
+	width: 100%;
+	height: 600px;
+			
+}
+
+ a, i, .tamanho_icones{
+	width: px;
+	height: px;
+}
+
+.margin_cont1 {
+	margin-top: 130px;
+}
+
+.margin_cont2 {
+	margin-top: 100px;
+}
+
+
+
+footer p a {
+	margin: 5px 6px;
+	padding: 5px;
+}
+
+.tamnaho {
+	height: 500px;
+	
+}
+
+.espaco {
+	margin-top: 200px;
+	margin-bottom: 200px;
+	
+
+}
+
+.espaco2 {
+	
+	margin-top: 200px;
+
+}
+
+
+
+
+footer  {
+	height: 90px;
+	border-top:1px solid  white; 
+}
